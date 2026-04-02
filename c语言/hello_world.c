@@ -1,5 +1,5 @@
-#include<stdio.h>
-int main(){
+#include <stdio.h>
+int main() {
     printf("Hello,C语言！\n");
     return 0;
 }
